@@ -2,7 +2,7 @@ import xml.etree.ElementTree
 from PIL import Image, ImageDraw, ImageFont
 
 
-# filenames
+# Filenames
 image_file = "character_skin.png"
 image_save_file = "character_skin_borders.png"
 areas_file = "skin_sprites_areas.xml"
@@ -16,6 +16,9 @@ text_color = black
 dor_color = dark_green
 rectangle_color = dark_green
 
+# Font size
+font_size = 14
+
 # Mode (True -- show image, False -- save with another filename)
 SHOW = False
 
@@ -23,7 +26,7 @@ SHOW = False
 def main():
     im = Image.open(image_file)
     draw = ImageDraw.Draw(im)
-    font = ImageFont.truetype("arial.ttf", 12)
+    font = ImageFont.truetype("arial.ttf", font_size)
 
     areas = xml.etree.ElementTree.parse(areas_file).getroot()
     dict_areas = []
