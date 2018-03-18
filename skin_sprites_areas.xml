@@ -1,0 +1,24 @@
+<Areas>
+  <Area Key="torso_A" X="146" Y="2" W="70" H="142" PX="35" PY="98" />
+  <Area Key="torso_B" X="74" Y="2" W="70" H="142" PX="35" PY="98" />
+  <Area Key="torso_C" X="2" Y="2" W="70" H="142" PX="35" PY="98" />
+  <Area Key="torso_D" X="218" Y="2" W="70" H="142" PX="35" PY="98" />
+  <Area Key="torso_E" X="290" Y="2" W="70" H="142" PX="35" PY="98" />
+  <Area Key="pelvis_A" X="362" Y="290" W="70" H="142" PX="35" PY="22" />
+  <Area Key="foot_A" X="290" Y="146" W="70" H="70" PX="26" PY="25" />
+  <Area Key="foot_B" X="362" Y="146" W="70" H="70" PX="26" PY="25" />
+  <Area Key="hand_A" X="290" Y="218" W="70" H="70" PX="34" PY="26" />
+  <Area Key="hand_B" X="362" Y="218" W="70" H="70" PX="34" PY="26" />
+  <Area Key="headphones_front_A" X="362" Y="2" W="70" H="70" PX="34" PY="35" />
+  <Area Key="headphones_back_A" X="362" Y="74" W="70" H="70" PX="34" PY="35" />
+  <Area Key="head_A" X="290" Y="290" W="70" H="70" PX="25" PY="53" />
+  <Area Key="shoulder_A" X="2" Y="290" W="70" H="142" PX="35" PY="44" />
+  <Area Key="arm_A" X="74" Y="290" W="70" H="142" PX="34" PY="44" />
+  <Area Key="shoulder_B" X="146" Y="290" W="70" H="142" PX="35" PY="44" />
+  <Area Key="arm_B" X="218" Y="290" W="70" H="142" PX="34" PY="44" />
+  <Area Key="thigh_A" X="74" Y="146" W="70" H="142" PX="34" PY="43" />
+  <Area Key="leg_A" X="2" Y="146" W="70" H="142" PX="43" PY="25" />
+  <Area Key="thigh_B" X="218" Y="146" W="70" H="142" PX="34" PY="43" />
+  <Area Key="leg_B" X="146" Y="146" W="70" H="142" PX="43" PY="25" />
+  <Area Key="belt" X="442" Y="158" W="20" H="10" PX="10" PY="-10" />
+</Areas>
